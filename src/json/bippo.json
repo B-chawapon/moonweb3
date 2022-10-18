@@ -1,0 +1,18 @@
+{
+  "title": "FUCK",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Angry hamster"
+    },
+    "description": {
+      "type": "string",
+      "description": "angry"
+    },
+    "image": {
+      "type": "string",
+      "description": "https://gateway.pinata.cloud/ipfs/QmP6PNNRemj3XYA7osr8WUScqFHFeuAf13NR5uXzpLkKCu"
+    }
+  }
+}

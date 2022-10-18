@@ -1,0 +1,18 @@
+{
+  "title": "FUCK",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Burning"
+    },
+    "description": {
+      "type": "string",
+      "description": "ไฟที่มอดไหม้กับไฟที่มองไม่เห็น ประโยค “พอไม่มีน้ำตา เราก็ไม่มีหลักฐานว่ามันคือความเศร้า” ที่เบ็นเป็นคนพูด ไม่ใช่ประโยคหงอยเหงาโรแมนติก แต่กลับเย็นชาถากถาง และเหยียดหยามความทุกข์ทนของคนตัวเล็กตัวน้อย"
+    },
+    "image": {
+      "type": "string",
+      "description": "https://gateway.pinata.cloud/ipfs/QmUprVXEGSXpTUqnH8shJaLnbmJmT11hsQV1eHba3n3CA6"
+    }
+  }
+}
